@@ -1,0 +1,2 @@
+{"source_key": "sec-edgar", "title": "SEC EDGAR / 上市公司公告示例", "description": "公司公告、10-K、10-Q、8-K、年报、季报等官方披露。", "source_type": "regulatory_filing", "source_url": "https://example.com/replace-with-real-source", "last_verified_at": "2026-06-30"}
+{"source_key": "market-data", "title": "市场行情数据示例", "description": "行情数据供应商、交易所或授权数据源。", "source_type": "market_data", "source_url": "https://example.com/replace-with-real-source", "last_verified_at": "2026-06-30"}

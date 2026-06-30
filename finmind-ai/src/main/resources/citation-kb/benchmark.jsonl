@@ -1,0 +1,5 @@
+{"capability": "支持行情和财报工具调用", "metric": "supported", "value": "yes", "evidence_source_keys": ["sec-edgar"]}
+{"capability": "支持财务指标口径说明", "metric": "supported", "value": "yes", "evidence_source_keys": ["sec-edgar"]}
+{"capability": "支持异动监控与审计日志", "metric": "supported", "value": "yes", "evidence_source_keys": ["sec-edgar"]}
+{"capability": "支持投研引用来源导出", "metric": "supported", "value": "yes", "evidence_source_keys": ["sec-edgar"]}
+{"capability": "输出默认包含非投资建议声明", "metric": "supported", "value": "yes", "evidence_source_keys": ["sec-edgar"]}

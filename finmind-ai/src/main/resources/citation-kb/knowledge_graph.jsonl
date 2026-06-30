@@ -1,0 +1,4 @@
+{"subject": "Company", "predicate": "files", "object": "Filing", "source_keys": ["sec-edgar"], "confidence": 0.82}
+{"subject": "Filing", "predicate": "contains", "object": "Metric", "source_keys": ["sec-edgar"], "confidence": 0.82}
+{"subject": "Metric", "predicate": "used_for", "object": "Ratio", "source_keys": ["sec-edgar"], "confidence": 0.82}
+{"subject": "MarketEvent", "predicate": "requires", "object": "Citation", "source_keys": ["sec-edgar"], "confidence": 0.82}
